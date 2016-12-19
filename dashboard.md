@@ -10,7 +10,7 @@
 
 ### 19.12.2016
 
-* ?
+* Let's Go Sport - Aplikacja mobilna do spotykania się.
 
 ### 09.01.2017
 
